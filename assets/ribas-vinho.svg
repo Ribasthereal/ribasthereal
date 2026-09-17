@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ribas — Full-Stack Developer, CTO at DevON Brasil</title>
+  <desc id="desc">A wine-red profile header. Currently learning Python.</desc>
+  <rect width="960" height="360" fill="#141414"/>
+  <rect width="960" height="312" fill="#791D31"/>
+  <g fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif">
+    <text x="32" y="39" font-size="14" letter-spacing="2">RIBASTHEREAL</text>
+    <text x="928" y="39" text-anchor="end" font-size="12" letter-spacing="2">PERSONAL PROFILE</text>
+    <path d="M32 62H928" stroke="#F5F5F5" stroke-opacity=".2"/>
+    <g id="sweep" transform="translate(0 0)" data-frame="sweep">
+      <path d="M32 62H86" stroke="#F5F5F5" stroke-opacity=".75"/>
+    </g>
+    <text x="24" y="246" font-family="Nimbus Sans Narrow, Impact, Arial Narrow, sans-serif" font-size="230" font-weight="700" letter-spacing="-5">RIBAS</text>
+    <text x="32" y="284" font-size="18">Full-Stack Developer</text>
+    <path d="M673 110V257" stroke="#F5F5F5" stroke-opacity=".2"/>
+    <text x="711" y="130" font-size="12" letter-spacing="2">CURRENT ROLE</text>
+    <text x="707" y="201" font-size="62" font-weight="700" letter-spacing="-2">CTO</text>
+    <text x="711" y="237" font-size="21">DevON Brasil</text>
+  </g>
+  <circle cx="34" cy="336" r="4" fill="#AF3C55"/>
+  <circle cx="34" cy="336" r="8" fill="none" stroke="#AF3C55" stroke-opacity=".5" data-frame="pulse"/>
+  <text x="54" y="342" font-family="Nimbus Mono PS, Courier New, monospace" font-size="16" fill="#E6E6E6">Learning Python</text>
+  <text x="928" y="341" text-anchor="end" font-family="Nimbus Mono PS, Courier New, monospace" font-size="12" letter-spacing="1" fill="#B5B5B5">ONE LANGUAGE AT A TIME.</text>
+</svg>

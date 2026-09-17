@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="218" viewBox="0 0 480 218" role="img" aria-labelledby="title desc">
+  <title id="title">DevON Brasil — where I work</title>
+  <desc id="desc">Visit the DevON Brasil website.</desc>
+  <rect x=".5" y=".5" width="479" height="217" fill="#141414" stroke="#363636"/>
+  <rect width="4" height="218" fill="#791D31"/>
+  <text x="24" y="37" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#B7B7B7">WHERE I WORK</text>
+  <text x="22" y="92" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="-1.5" fill="#F5F5F5">DevON Brasil</text>
+  <text x="24" y="127" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#B7B7B7">Meet the company behind my work.</text>
+  <text x="24" y="186" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#E6E6E6">Visit the website</text>
+  <rect x="408" y="152" width="48" height="48" fill="#791D31"/>
+  <path d="M421 189L443 167M427 167H443V183" fill="none" stroke="#F5F5F5" stroke-width="2"/>
+</svg>

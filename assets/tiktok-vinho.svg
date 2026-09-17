@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="40" viewBox="0 0 146 40" role="img" aria-label="DevON on TikTok">
+  <rect x=".5" y=".5" width="145" height="39" fill="#791D31"/>
+  <text x="15" y="25" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#F5F5F5">TikTok</text>
+  <path d="M118 25L128 15M120 15H128V23" fill="none" stroke="#F5F5F5" stroke-width="1.5"/>
+</svg>
